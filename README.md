@@ -7,7 +7,8 @@
 - [x] Buscar o extrato bancário do cliente || verificar se é uma conta válida
 - [x] Realizar um depósito
 - [x] Realizar um saque
-- [] Buscar extrato bancário da conta pela data
-- [] Atualizar dados da conta do cliente
-- [] Obter dados da conta
-- [] Deletar conta
+
+---
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+Este projeto usa Node.js.
